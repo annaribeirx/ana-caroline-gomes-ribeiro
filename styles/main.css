@@ -1,0 +1,9 @@
+@import url('personal-data.css');
+@import url('list.css');
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap');
+
+body {
+    font-family: 'Inclusive Sans';
+    background-color: rgb(26, 1, 49);
+    color: aliceblue;
+}

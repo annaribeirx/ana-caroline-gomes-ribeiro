@@ -1,0 +1,9 @@
+.personal-data h1 {
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(247, 247, 244);
+}
+
+.personal-data {
+    background-image: url("/spn.jpg");
+}
